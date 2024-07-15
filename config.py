@@ -104,4 +104,3 @@ exchange_name = 'OKX'  # Bybit, Binance, OKX
 
 amount_input = (20.3, 50.42)
 amount = round(random.uniform(amount_input[0], amount_input[1]), 4)
-address = '0xFAeD4B8B3Ed70A64ceBCE84749C157F90eb3D6fa'
